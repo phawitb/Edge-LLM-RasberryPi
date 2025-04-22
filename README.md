@@ -17,5 +17,4 @@ python3 device_server.py 4 0.0.0.0 9004
 
 
 ## Demo Video
-[https://www.youtube.com/watch?v=fTjPEE0fk-U](https://youtu.be/l2uFeBvGDug?si=_SdyOp4IxJ9a7ctA](https://youtu.be/l2uFeBvGDug?si=FS2JZYnwRtb3LFly)
-
+https://youtu.be/l2uFeBvGDug?si=FS2JZYnwRtb3LFly
